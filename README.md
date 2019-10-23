@@ -8,3 +8,6 @@ The project consists of 4 Parts:
 - Train & Deploy on AWS SageMaker
 - Train & Deploy on Azure ML
 - Train & Deploy on Google's AI Platform (aka ML Engine)
+
+
+The articles related to this project can be read on my medium page https://medium.com/@aymericdelabrousse
